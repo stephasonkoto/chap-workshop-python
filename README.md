@@ -8,6 +8,7 @@ Welcome to the CHAP workshop! This repository is for practicing Git and GitHub.
 2. Clone your fork to your computer
 3. Add your name below
 4. Commit and push your changes
+5. This file is changed by Kotomangazafy Stephason
 
 ## Participants
 
